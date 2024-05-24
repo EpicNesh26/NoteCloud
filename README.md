@@ -30,9 +30,9 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 3. Make your changes directly on the main branch.
 4. Commit your changes: <br>
 `git commit -m "Added New Features"`
-5. Push your changes to your forked repository:
-6. git push origin main
-7. Create a Pull Request from your repository to the original repository.
+5. Push your changes to your forked repository: <br>
+ `git push origin main`
+6. Create a Pull Request from your repository to the original repository.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.

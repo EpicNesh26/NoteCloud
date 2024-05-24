@@ -24,4 +24,16 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
+1. Fork the repository.
+2. Clone your forked repository:
+3. Make your changes directly on the main branch.
+4. Commit your changes: 
+`git commit -m "Added New Features"`
+Push your changes to your forked repository:
+5. git push origin main
+6. Create a Pull Request from your repository to the original repository.
 
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Feel free to reach out if you have any questions or need further assistance. Enjoy using NoteCloud!

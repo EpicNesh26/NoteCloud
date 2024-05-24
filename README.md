@@ -12,11 +12,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 1. Clone the repository: <br>
-
+  `https://github.com/EpicNesh26/NoteCloud.git`
 2. Navigate to the project directory: <br>
-
-3. Open index.html in your web browser: <br>
-
+  `cd notecloud`
+3. Open index.html in your web browser using live server extension<br>
+  
 ### Usage
 1. Open the app in your web browser.
 2. Use the "Add Note" button to create a new note.
@@ -25,13 +25,14 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 1. Fork the repository.
-2. Clone your forked repository:
+2. Clone your forked repository: <br>
+   `https://github.com/EpicNesh26/NoteCloud.git`
 3. Make your changes directly on the main branch.
-4. Commit your changes: 
+4. Commit your changes: <br>
 `git commit -m "Added New Features"`
-Push your changes to your forked repository:
-5. git push origin main
-6. Create a Pull Request from your repository to the original repository.
+5. Push your changes to your forked repository:
+6. git push origin main
+7. Create a Pull Request from your repository to the original repository.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
